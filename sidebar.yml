@@ -3,4 +3,7 @@ website:
     contents:
       - index.ipynb
       - 00_core.ipynb
+      - 01_cat dog find.ipynb
+      - 02_segmentation.ipynb
+      - 03_tabular.ipynb
       - test.ipynb

@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://inodie.github.io',
                 'git_url': 'https://github.com/inodie/fastai-study/',
                 'lib_path': 'fastai_study'},
-  'syms': {'fastai_study.core': {'fastai_study.core.check_env': ('core.html#check_env', 'fastai_study/core.py')}}}
+  'syms': { 'fastai_study.cat_dog_find': {'fastai_study.cat_dog_find.is_cat': ('cat dog find.html#is_cat', 'fastai_study/cat_dog_find.py')},
+            'fastai_study.core': {'fastai_study.core.check_env': ('core.html#check_env', 'fastai_study/core.py')},
+            'fastai_study.segmentation': {},
+            'fastai_study.tabular': {}}}
