@@ -1,0 +1,7 @@
+#!/Users/leejaewon/Desktop/fastai-study/fastai-study/fastai/bin/python3.12
+import sys
+from nbdev.cli import nbdev_new
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(nbdev_new())
