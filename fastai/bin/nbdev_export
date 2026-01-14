@@ -1,4 +1,4 @@
-#!/Users/leejaewon/Desktop/fastai-study/fastai-study/fastai/bin/python3.12
+#!/Users/leejaewon/Desktop/fastai-study/fastai-study/fastai/bin/python
 import sys
 from nbdev.doclinks import nbdev_export
 if __name__ == '__main__':

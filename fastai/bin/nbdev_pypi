@@ -1,4 +1,4 @@
-#!/Users/leejaewon/Desktop/fastai-study/fastai-study/fastai/bin/python3.12
+#!/Users/leejaewon/Desktop/fastai-study/fastai-study/fastai/bin/python
 import sys
 from nbdev.release import release_pypi
 if __name__ == '__main__':

@@ -1,4 +1,4 @@
-#!/Users/leejaewon/Desktop/fastai-study/fastai-study/fastai/bin/python3.12
+#!/Users/leejaewon/Desktop/fastai-study/fastai-study/fastai/bin/python
 import sys
 from fastcore.py2pyi import py2pyi
 if __name__ == '__main__':
